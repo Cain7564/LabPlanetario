@@ -1,0 +1,1 @@
+C:\Users\max75\OneDrive\Escritorio\visual\Solar_render\solar_renderer\target\debug\celestial_shaders.exe: C:\Users\max75\OneDrive\Escritorio\visual\Solar_render\solar_renderer\src\framebuffer.rs C:\Users\max75\OneDrive\Escritorio\visual\Solar_render\solar_renderer\src\main.rs C:\Users\max75\OneDrive\Escritorio\visual\Solar_render\solar_renderer\src\textura.rs
